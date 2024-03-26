@@ -1,0 +1,9 @@
+python-dotenv
+requests
+icecream
+openai
+langchain
+langchain-openai
+transformers
+qdrant-client
+tiktoken
